@@ -15,6 +15,8 @@
 <p>The detailed lisitings data can be found <a href="https://insideairbnb.com/get-the-data/">here.</a>
 
 <h2>Setup and Installation</h2>
+<p>The procedure involved using SQLAlchemy in Python to import a CSV file into a MySQL database. Initially, the CSV data was read into a pandas DataFrame. Then, an SQLAlchemy engine was created to establish a connection with the MySQL database. Using pandas <b>'to_sql'</b> method, the DataFrame contents were efficiently transferred into a MySQL table. This method facilitated a streamlined data import process, optimizing data management and enabling straightforward analysis through MySQL's capabilities.</p>
+
 <h2>Insights</h2>
 <p>From the analyis carried out, I was able to gain the following insights:</p>
 <p>
