@@ -23,4 +23,7 @@
       <br> 4. <b>March</b> is the most popular month to book Airbnbs in San Diego. This could be attributed to students going on Spring Break.
 </p>
 
+<h3>Analysis</h3>
+<p>Queries used to obtain these insights and the results will be shown below each of the business question.</p>
+
 </html>
