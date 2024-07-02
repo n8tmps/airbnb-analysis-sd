@@ -26,9 +26,11 @@
 <h3>Analysis</h3>
 <p>Queries used to obtain these insights and the results will be shown below each of the business question.</p>
 <p><b>Which neighborhoods have the highest number of listings?</b></p>
+
 <!-- which neighborhoods have the highest listings-->
       SELECT neighbourhood_cleansed, count(*) AS num_listings
       FROM listings
       GROUP BY neighbourhood_cleansed
       ORDER BY num_listings DESC;
+      
 </html>
