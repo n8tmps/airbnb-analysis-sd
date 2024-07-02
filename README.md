@@ -43,5 +43,16 @@
       GROUP BY neighbourhood_cleansed
       ORDER BY avg_price DESC;
 
-<img src='q2.png'>  
+<img src='q2.png'>
+
+<p><b>Who are the hosts with the most listings?</b></p>
+
+<!-- hosts with most listings -->
+      SELECT host_id, host_name, host_neighbourhood,
+	      count(*) as num_listings
+      FROM listings
+      GROUP BY host_neighbourhood, host_id, host_name
+      ORDER BY num_listings DESC;
+
+<img src='q3.png'>
 </html>
