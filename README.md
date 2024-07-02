@@ -15,6 +15,7 @@
 <p>The detailed lisitings data can be found <a href="https://insideairbnb.com/get-the-data/">here.</a>
 
 <h2>Insights</h2>
-<p>no insights woohoo!</p>
+<p>From the analyis carried out, I was able to gain the following insights:</p>
+<p>1. The top 5 neighborhoods with the highest number of listings are <b>Mission Bay, Pacific Beach, La Jolla, Ocean Beach, and North Hills.</b></p>
 
 </html>
