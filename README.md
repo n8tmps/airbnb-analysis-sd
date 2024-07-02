@@ -9,7 +9,7 @@
       1. Which neighborhoods have the highest number of listings? 
   <br>2. What are the most expensive neighbourhoods to book?
   <br>3. Who are the hosts with the most listings?
-  <br>4. Which months are the most popular to book?
+  <br>4. Which months are the most popular to book in prominent neighborhoods?
 </b></p>
 
 <p>The detailed lisitings data can be found <a href="https://insideairbnb.com/get-the-data/">here.</a>
@@ -55,4 +55,23 @@
       ORDER BY num_listings DESC;
 
 <img src='q3.png'>
+
+<p><b>Which months are the most popular to book in prominent neighborhoods?</b></p>
+
+<!--which months are the most popular to book in top 5 neighborhoods?-->
+	SELECT 
+    		MONTH(last_review) AS month,
+    		COUNT(name) AS num_reviews
+	FROM 
+    		listings
+	WHERE
+    		last_review IS NOT NULL
+    		AND neighbourhood_cleansed IN ('La Jolla', 'Mission Bay', 'North Hills', 'Ocean Beach', 'Pacific Beach')
+	GROUP BY 
+    		MONTH(last_review)
+	ORDER BY 
+    		num_reviews DESC;
+
+<img src='q4.png'>
+
 </html>
