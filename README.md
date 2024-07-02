@@ -12,4 +12,6 @@
   <br>4. Which months are the most popular to book?
 </b></p>
 
+<p>The data can be found <a href="https://insideairbnb.com/get-the-data/">here</a>
+
 </html>
