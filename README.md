@@ -16,6 +16,9 @@
 
 <h2>Insights</h2>
 <p>From the analyis carried out, I was able to gain the following insights:</p>
-<p>1. The top 5 neighborhoods with the highest number of listings are <b>Mission Bay, Pacific Beach, La Jolla, Ocean Beach, and North Hills.</b></p>
+<p>
+            1. The neighborhoods with the highest number of listings are <b>Mission Bay, Pacific Beach, La Jolla, Ocean Beach, and North Hills.</b>
+      <br> 2. The most expensive neighbourhoods to book are <b>Torrey Pines, Moreno Mission, La Jolla, Wooded ARea, and Del Cerro.</b>
+</p>
 
 </html>
