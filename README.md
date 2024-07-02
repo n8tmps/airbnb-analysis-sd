@@ -77,4 +77,9 @@
 
 <img src='q4.png'>
 
+<section id='visual'>
+<h2>Dashboard</h2>
+<img src='Dashboard.png'/>
+<p>Check out my interactive <a href="https://public.tableau.com/views/AirbnbAnalysis_17196132959730/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link">Tableau Dashboard</a></p>
+
 </html>
