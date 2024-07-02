@@ -6,4 +6,6 @@
 
 <p>This analysis aims to provide insights to the following questions of interest:</p>
 
+<li>1. Which neighborhoods have the highest and lowest listings?</li>
+
 </html>
