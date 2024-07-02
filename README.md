@@ -34,4 +34,14 @@
       ORDER BY num_listings DESC;
 
 <img src='q1.png'>
+<p><b>What are the most expensive neighbourhoods to book?</b></p>
+
+<!-- what are the most expensive neighborhoods-->
+      SELECT neighbourhood_cleansed,
+             AVG(CAST(REPLACE(REPLACE(price, '$', ''), ',', '') AS DECIMAL(10, 2))) AS avg_price
+      FROM listings
+      GROUP BY neighbourhood_cleansed
+      ORDER BY avg_price DESC;
+
+<img src='q2.png'>  
 </html>
