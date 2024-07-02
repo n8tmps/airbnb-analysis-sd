@@ -14,6 +14,7 @@
 
 <p>The detailed lisitings data can be found <a href="https://insideairbnb.com/get-the-data/">here.</a>
 
+<h2>Setup and Installation</h2>
 <h2>Insights</h2>
 <p>From the analyis carried out, I was able to gain the following insights:</p>
 <p>
