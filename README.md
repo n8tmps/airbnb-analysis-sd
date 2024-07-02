@@ -15,5 +15,6 @@
 <p>The detailed lisitings data can be found <a href="https://insideairbnb.com/get-the-data/">here.</a>
 
 <h2>Insights</h2>
+<p>no insights woohoo!</p>
 
 </html>
