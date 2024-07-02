@@ -3,9 +3,8 @@
 -- Questions of Interest:
 -- 1. Which neighborhoods have the highest and lowest listings?
 -- 2. What are the most expensive and least expensive neighborhoods?
--- 3. What is the most popular neighborhood?
--- 4. Who is the host with the most listings?
--- 5. Which months are the most popular to book?
+-- 3. Who is the host with the most listings?
+-- 4. Which months are the most popular to book?
 
 select * from listings;
 
