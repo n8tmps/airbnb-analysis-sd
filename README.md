@@ -7,7 +7,7 @@
 <p>This analysis aims to provide insights to the following questions of interest:</p>
 <p>
 	<ol>
-		<li>Which neighborhoods have the highest number of listings?</li>
+		<li><b>Which neighborhoods have the highest number of listings?</b></li>
   		<li>What are the most expensive neighbourhoods to book?</li>
   		<li>Who are the hosts with the most listings?</li>
   		<li>Which months are the most popular to book in prominent neighborhoods?</li>
