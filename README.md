@@ -8,9 +8,9 @@
 <p>
 	<ol>
 		<li><b>Which neighborhoods have the highest number of listings?</b></li>
-  		<li>What are the most expensive neighbourhoods to book?</li>
-  		<li>Who are the hosts with the most listings?</li>
-  		<li>Which months are the most popular to book in prominent neighborhoods?</li>
+  		<li><b>What are the most expensive neighbourhoods to book?</b></li>
+  		<li><b>Who are the hosts with the most listings?</b></li>
+  		<li><b>Which months are the most popular to book in prominent neighborhoods?</b></li>
 	</ol>
 </p>
 
